@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephenteacher
 - 👀 I’m interested in Engineering and Education
-- 🌱 I’m currently learning how to make my tiddlywiki batter and my 3d modelling skillset.
+- 🌱 I’m currently learning how to make my tiddlywiki better and my 3d modelling skillset.
 - 💞️ I’m looking to collaborate on Engineering textbooks and educational materials
 - 📫 How to reach me ...
 
